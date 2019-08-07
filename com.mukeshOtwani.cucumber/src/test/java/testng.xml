@@ -1,0 +1,12 @@
+<suite name="Sample">
+
+	
+
+
+	<test name="Sample Test Cases" >
+		<classes>
+			<class name="runner.TestRunnerWithTestNG"></class>
+
+		</classes>
+	</test>
+</suite>
