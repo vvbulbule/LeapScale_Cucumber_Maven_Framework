@@ -5,6 +5,7 @@ import cucumber.api.java.Before;
 
 public class Hooks {
 	
+	
 	@Before(order=1)
 	public void init() {
 		System.out.println("Before hook invoked");
